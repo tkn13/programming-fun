@@ -1,0 +1,19 @@
+* = syntax
+- = example
+-----------------------------------------------
+
+To complie
+    * java [file name].java
+    - javac HelloWorld.java
+
+To execute
+    * java [file name]
+    - java HelloWorld
+
+-----------------------------------------------
+
+public class [className]{
+    public static void main(String[] args){
+
+    }
+}
